@@ -2,22 +2,22 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-05T02:28:40.308Z'
-dateModified: '2016-03-05T02:28:13.787Z'
-title: Zero Hour Design
+description: A digital manifestation of the musings of a dark artist.
+datePublished: '2016-05-13T05:04:56.039Z'
+dateModified: '2016-05-13T05:04:55.741Z'
+title: ''
 author: []
+sourcePath: _posts/2016-03-05-zero-hour-design.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-05-zero-hour-design.md
-published: true
+starred: true
 _type: Blurb
 
 ---
