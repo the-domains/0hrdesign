@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: A digital manifestation of the musings of a dark artist.
-datePublished: '2016-05-13T05:04:56.039Z'
-dateModified: '2016-05-13T05:04:55.741Z'
+datePublished: '2016-05-16T05:44:20.838Z'
+dateModified: '2016-05-16T05:44:20.752Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-05-zero-hour-design.md
